@@ -11,7 +11,6 @@ This project is beginner-friendly, lightweight, and does **not require any paid 
 - Play music using song names or links
 - High-quality audio playback
 - ⏸ Pause / ▶ Resume / ⏹ Stop
-- Song end notification
 - 100% free & open source
 
 ---
