@@ -2,10 +2,12 @@ import discord
 from discord.ext import commands
 import yt_dlp
 import os
+from dotenv import load_dotenv
 
 # ---------------- CONFIG ---------------- #
+load_dotenv()
 
-BOT_TOKEN = "ADD_YOUR_TOKEN_HERE"
+BOT_TOKEN = os.getenv("DISCORD_TOKEN")
 
 FFMPEG_PATH = r"C:\ffmpeg\bin\ffmpeg.exe"
 
