@@ -1,4 +1,8 @@
 # Discord Music Bot (Python)
+![Python Version](https://img.shields.io/badge/python-3.10+-blue)
+![Platform](https://img.shields.io/badge/platform-discord-black)
+![License](https://img.shields.io/github/license/Ranveerrrrr/Discord-Music-Bot)
+![Last Commit](https://img.shields.io/github/last-commit/Ranveerrrrr/Discord-Music-Bot)
 
 A **free, open-source Discord music bot** built with **Python** that plays high-quality music in voice channels using **yt-dlp** and **FFmpeg**.
 
